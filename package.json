@@ -1,0 +1,17 @@
+{
+  "name": "hello world test",
+  "version": "1.0.0",
+  "description": "Testing Hello World",
+  "main": "index.js",
+  "dependencies": {
+    "@actions/core": "^1.2.4",
+    "@actions/github": "^3.0.0",
+    "jest": "^26.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "richard@deal-commerce.com",
+  "license": "MIT"
+}
